@@ -64,3 +64,4 @@ export const products = [
         category: "Sports"
     }
 ];
+export default products;

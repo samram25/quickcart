@@ -76,3 +76,16 @@
     border-radius: 20px;
     font-weight: 500;
 }
+.add-btn {
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.add-btn:hover {
+    background-color: #ff5252;
+}
